@@ -47,7 +47,7 @@ Note: as the `simple.Server` type extends the [`generic.Container`](http://docs.
 In a first stage, the simple artifacts are folders. They can be splitted in two categories
 
 * the `simple.Binaries` folder contains the runtime (eg bin folder and lib folder)
-* the `simple.Configuration` folder container the famous configuaration files (eg .properties or .xml files) that are usually used to configure the application from the technical view (URL, ports, credentials …) or from the application view (timeout, labels…)
+* the `simple.Configuration` folder container the famous configuration files (eg .properties or .xml files) that are usually used to configure the application from the technical view (URL, ports, credentials …) or from the application view (timeout, labels…)
 
 synthetic.xml
 
